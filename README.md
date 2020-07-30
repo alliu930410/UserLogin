@@ -1,8 +1,4 @@
-<a href="http://fvcproductions.com"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsearch.muz.li%2FZDZmZWRiZjFj&psig=AOvVaw0cY0uLDTjSwJnhqzAG8ow5&ust=1596232660508000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiflZj89eoCFQAAAAAdAAAAABAD" title="UserLogin" alt="FVCproductions"></a>
-
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
-
-***INSERT GRAPHIC HERE (include hyperlink in image)***
+![](https://assets.materialup.com/uploads/4981b8c1-ee27-4533-80ca-8ce5cd10b271/preview.jpg)
 
 # Repository Title Goes Here
 
