@@ -1,6 +1,7 @@
-![](https://assets.materialup.com/uploads/4981b8c1-ee27-4533-80ca-8ce5cd10b271/preview.jpg)
-
-# Repository Title Goes Here
+<img src="https://assets.materialup.com/uploads/4981b8c1-ee27-4533-80ca-8ce5cd10b271/preview.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+# A very simple user login feature
 
 > Subtitle or Short Description Goes Here
 
